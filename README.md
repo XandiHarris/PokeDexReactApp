@@ -1,2 +1,0 @@
-# PokeDexReactApp
-Created with CodeSandbox
